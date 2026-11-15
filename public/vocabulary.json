@@ -108,5 +108,324 @@
       "adverb",
       "daily-life"
     ]
+  },
+  {
+    "id": "fit-0001",
+    "korean": "응원하다",
+    "english": "to cheer for; to support",
+    "example_ko": "경기 내내 관중들이 선수들을 열심히 응원했어요.",
+    "example_en": "The crowd cheered the athletes on throughout the match.",
+    "tags": [
+      "verb",
+      "fitness-terms"
+    ]
+  },
+  {
+    "id": "fit-0002",
+    "korean": "기록",
+    "english": "record; performance time or result",
+    "example_ko": "이번 대회에서 개인 최고 기록을 세웠어요.",
+    "example_en": "I set a personal best in this competition.",
+    "tags": [
+      "noun",
+      "fitness-terms"
+    ]
+  },
+  {
+    "id": "fit-0003",
+    "korean": "근력",
+    "english": "muscular strength",
+    "example_ko": "무게를 늘리려면 근력을 꾸준히 키워야 해요.",
+    "example_en": "To lift heavier weights, you need to build strength consistently.",
+    "tags": [
+      "noun",
+      "fitness-terms"
+    ]
+  },
+  {
+    "id": "fit-0004",
+    "korean": "순발력",
+    "english": "explosive power; quick reactions",
+    "example_ko": "출발할 때는 순발력이 특히 중요해요.",
+    "example_en": "Explosive power is especially important at the start.",
+    "tags": [
+      "noun",
+      "fitness-terms"
+    ]
+  },
+  {
+    "id": "fit-0005",
+    "korean": "유연성",
+    "english": "flexibility",
+    "example_ko": "유연성을 높이려고 운동 후에 스트레칭을 해요.",
+    "example_en": "I stretch after workouts to improve flexibility.",
+    "tags": [
+      "noun",
+      "fitness-terms"
+    ]
+  },
+  {
+    "id": "fit-0006",
+    "korean": "근육통",
+    "english": "muscle soreness",
+    "example_ko": "하체 운동 다음 날 근육통이 심했어요.",
+    "example_en": "I had bad muscle soreness the day after leg day.",
+    "tags": [
+      "noun",
+      "fitness-terms"
+    ]
+  },
+  {
+    "id": "fit-0007",
+    "korean": "자세",
+    "english": "posture; exercise form",
+    "example_ko": "무게보다 올바른 자세를 유지하는 게 중요해요.",
+    "example_en": "Maintaining proper form matters more than the weight.",
+    "tags": [
+      "noun",
+      "fitness-terms"
+    ]
+  },
+  {
+    "id": "fit-0008",
+    "korean": "호흡 조절",
+    "english": "breathing control",
+    "example_ko": "오르막길에서는 호흡 조절이 쉽지 않아요.",
+    "example_en": "Controlling your breathing isn't easy on uphill sections.",
+    "tags": [
+      "noun",
+      "fitness-terms"
+    ]
+  },
+  {
+    "id": "fit-0009",
+    "korean": "회복하다",
+    "english": "to recover",
+    "example_ko": "고강도 운동 후에는 충분히 회복해야 해요.",
+    "example_en": "You need to recover fully after a high-intensity workout.",
+    "tags": [
+      "verb",
+      "fitness-terms"
+    ]
+  },
+  {
+    "id": "fit-0010",
+    "korean": "버티다",
+    "english": "to hold out; to endure",
+    "example_ko": "마지막 삼십 초만 더 버텨 보세요.",
+    "example_en": "Try to hold on for just thirty more seconds.",
+    "tags": [
+      "verb",
+      "fitness-terms"
+    ]
+  },
+  {
+    "id": "fit-0011",
+    "korean": "완주하다",
+    "english": "to complete a race or course",
+    "example_ko": "힘들었지만 끝까지 마라톤을 완주했어요.",
+    "example_en": "It was tough, but I finished the marathon.",
+    "tags": [
+      "verb",
+      "fitness-terms"
+    ]
+  },
+  {
+    "id": "fit-0012",
+    "korean": "기록을 경신하다",
+    "english": "to break a record; set a new best",
+    "example_ko": "이번 경기에서 개인 최고 기록을 경신했어요.",
+    "example_en": "I broke my personal record in this competition.",
+    "tags": [
+      "verb",
+      "fitness-terms"
+    ]
+  },
+  {
+    "id": "fit-0013",
+    "korean": "한계를 넘다",
+    "english": "to push beyond one's limits",
+    "example_ko": "오늘 훈련에서 제 한계를 넘은 것 같아요.",
+    "example_en": "I think I pushed beyond my limits in training today.",
+    "tags": [
+      "verb",
+      "fitness-terms"
+    ]
+  },
+  {
+    "id": "fit-0014",
+    "korean": "부상",
+    "english": "injury",
+    "example_ko": "부상을 피하려면 무리하지 않는 게 좋아요.",
+    "example_en": "It's best not to overdo it if you want to avoid injury.",
+    "tags": [
+      "noun",
+      "fitness-terms"
+    ]
+  },
+  {
+    "id": "fit-0015",
+    "korean": "기권하다",
+    "english": "to withdraw from a competition",
+    "example_ko": "발목 통증 때문에 경기 도중 기권했어요.",
+    "example_en": "I withdrew during the competition because of ankle pain.",
+    "tags": [
+      "verb",
+      "fitness-terms"
+    ]
+  },
+  {
+    "id": "fit-0016",
+    "korean": "실격",
+    "english": "disqualification",
+    "example_ko": "규칙을 위반한 선수는 실격 처리됐어요.",
+    "example_en": "The athlete who broke the rules was disqualified.",
+    "tags": [
+      "noun",
+      "fitness-terms"
+    ]
+  },
+  {
+    "id": "fit-0017",
+    "korean": "접전",
+    "english": "close contest; tight match",
+    "example_ko": "결승전은 마지막까지 접전이 이어졌어요.",
+    "example_en": "The final remained a close contest to the very end.",
+    "tags": [
+      "noun",
+      "fitness-terms"
+    ]
+  },
+  {
+    "id": "fit-0018",
+    "korean": "역전하다",
+    "english": "to come from behind; turn the result around",
+    "example_ko": "후반전에 두 골을 넣어 경기를 역전했어요.",
+    "example_en": "We scored twice in the second half to turn the game around.",
+    "tags": [
+      "verb",
+      "fitness-terms"
+    ]
+  },
+  {
+    "id": "fit-0019",
+    "korean": "엎드리다",
+    "english": "to lie face down; lie on your stomach",
+    "example_ko": "매트에 엎드려서 팔을 앞으로 뻗으세요.",
+    "example_en": "Lie face down on the mat and stretch your arms forward.",
+    "tags": [
+      "verb",
+      "fitness-terms"
+    ]
+  },
+  {
+    "id": "fit-0020",
+    "korean": "바로 눕다",
+    "english": "to lie on your back; face up",
+    "example_ko": "매트에 바로 누워서 무릎을 세우세요.",
+    "example_en": "Lie on your back on the mat and bend your knees.",
+    "tags": [
+      "verb",
+      "fitness-terms"
+    ]
+  },
+  {
+    "id": "fit-0021",
+    "korean": "종아리",
+    "english": "calf; lower leg",
+    "example_ko": "달리기를 마친 후 종아리가 많이 뭉쳤어요.",
+    "example_en": "My calves felt very tight after the run.",
+    "tags": [
+      "noun",
+      "fitness-terms"
+    ]
+  },
+  {
+    "id": "fit-0022",
+    "korean": "구부리다",
+    "english": "to bend; flex",
+    "example_ko": "무릎을 천천히 구부리면서 엉덩이를 낮추세요.",
+    "example_en": "Bend your knees slowly as you lower your hips.",
+    "tags": [
+      "verb",
+      "fitness-terms"
+    ]
+  },
+  {
+    "id": "fit-0023",
+    "korean": "펴다",
+    "english": "to straighten; extend",
+    "example_ko": "팔꿈치를 끝까지 펴지 말고 살짝 구부리세요.",
+    "example_en": "Don't fully straighten your elbows; keep them slightly bent.",
+    "tags": [
+      "verb",
+      "fitness-terms"
+    ]
+  },
+  {
+    "id": "fit-0024",
+    "korean": "힘을 주다",
+    "english": "to tense or engage a muscle; squeeze",
+    "example_ko": "복부에 힘을 주고 자세를 유지하세요.",
+    "example_en": "Engage your core and maintain your form.",
+    "tags": [
+      "verb",
+      "fitness-terms"
+    ]
+  },
+  {
+    "id": "fit-0025",
+    "korean": "힘을 빼다",
+    "english": "to relax a muscle; release tension",
+    "example_ko": "어깨에 힘을 빼고 자연스럽게 호흡하세요.",
+    "example_en": "Relax your shoulders and breathe naturally.",
+    "tags": [
+      "verb",
+      "fitness-terms"
+    ]
+  },
+  {
+    "id": "fit-0026",
+    "korean": "쉬다",
+    "english": "to rest; take a break",
+    "example_ko": "세트 사이에 삼십 초 정도 쉬세요.",
+    "example_en": "Rest for about thirty seconds between sets.",
+    "tags": [
+      "verb",
+      "fitness-terms"
+    ]
+  },
+  {
+    "id": "fit-0027",
+    "korean": "당기다",
+    "english": "to pull",
+    "example_ko": "손잡이를 몸 쪽으로 천천히 당기세요.",
+    "example_en": "Slowly pull the handle toward your body.",
+    "tags": [
+      "verb",
+      "fitness-terms"
+    ]
+  },
+  {
+    "id": "fit-0028",
+    "korean": "밀다",
+    "english": "to push",
+    "example_ko": "발뒤꿈치로 바닥을 밀면서 일어나세요.",
+    "example_en": "Push through your heels as you stand up.",
+    "tags": [
+      "verb",
+      "fitness-terms"
+    ]
+  },
+  {
+    "id": "fit-0029",
+    "korean": "날개뼈",
+    "english": "shoulder blade; scapula",
+    "example_ko": "날개뼈를 모으면서 가슴을 펴세요.",
+    "example_en": "Draw your shoulder blades together as you open your chest.",
+    "tags": [
+      "noun",
+      "fitness-terms"
+    ]
   }
 ]
