@@ -1,0 +1,112 @@
+[
+  {
+    "id": "kr-0001",
+    "korean": "떨리다",
+    "english": "to tremble; to feel nervous",
+    "example_ko": "발표 전에 너무 떨려요.",
+    "example_en": "I'm really nervous before the presentation.",
+    "tags": [
+      "verb",
+      "feelings"
+    ]
+  },
+  {
+    "id": "kr-0002",
+    "korean": "약속",
+    "english": "promise; appointment; plans",
+    "example_ko": "오늘 저녁에 친구와 약속이 있어요.",
+    "example_en": "I have plans with a friend this evening.",
+    "tags": [
+      "noun",
+      "daily-life"
+    ]
+  },
+  {
+    "id": "kr-0003",
+    "korean": "갑자기",
+    "english": "suddenly",
+    "example_ko": "갑자기 비가 내리기 시작했어요.",
+    "example_en": "It suddenly started raining.",
+    "tags": [
+      "adverb",
+      "daily-life"
+    ]
+  },
+  {
+    "id": "kr-0004",
+    "korean": "익숙하다",
+    "english": "to be familiar with; to be accustomed to",
+    "example_ko": "이 동네가 이제 익숙해졌어요.",
+    "example_en": "I've become familiar with this neighborhood now.",
+    "tags": [
+      "adjective",
+      "daily-life"
+    ]
+  },
+  {
+    "id": "kr-0005",
+    "korean": "고민하다",
+    "english": "to worry about; to think something over",
+    "example_ko": "무엇을 먹을지 고민하고 있어요.",
+    "example_en": "I'm thinking about what to eat.",
+    "tags": [
+      "verb",
+      "thinking"
+    ]
+  },
+  {
+    "id": "kr-0006",
+    "korean": "분위기",
+    "english": "atmosphere; mood",
+    "example_ko": "이 카페는 분위기가 좋아요.",
+    "example_en": "This café has a nice atmosphere.",
+    "tags": [
+      "noun",
+      "daily-life"
+    ]
+  },
+  {
+    "id": "kr-0007",
+    "korean": "어색하다",
+    "english": "to be awkward; to feel uncomfortable",
+    "example_ko": "처음 만났을 때 조금 어색했어요.",
+    "example_en": "It felt a little awkward when we first met.",
+    "tags": [
+      "adjective",
+      "feelings"
+    ]
+  },
+  {
+    "id": "kr-0008",
+    "korean": "깜빡하다",
+    "english": "to forget momentarily",
+    "example_ko": "우산을 가져오는 걸 깜빡했어요.",
+    "example_en": "I forgot to bring my umbrella.",
+    "tags": [
+      "verb",
+      "daily-life"
+    ]
+  },
+  {
+    "id": "kr-0009",
+    "korean": "기대하다",
+    "english": "to look forward to; to expect",
+    "example_ko": "주말 여행을 기대하고 있어요.",
+    "example_en": "I'm looking forward to the weekend trip.",
+    "tags": [
+      "verb",
+      "feelings"
+    ]
+  },
+  {
+    "id": "kr-0010",
+    "korean": "우연히",
+    "english": "by chance; coincidentally",
+    "example_ko": "길에서 옛 친구를 우연히 만났어요.",
+    "example_en": "I ran into an old friend by chance on the street.",
+    "tags": [
+      "adverb",
+      "daily-life"
+    ]
+  }
+]
