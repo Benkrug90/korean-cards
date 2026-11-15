@@ -438,5 +438,60 @@
       "verb",
       "business"
     ]
+  },
+  {
+    "id": "kr-0012",
+    "korean": "관중",
+    "english": "spectators; crowd at a sporting event",
+    "example_ko": "경기장에 관중이 정말 많았어요.",
+    "example_en": "There were so many spectators at the stadium.",
+    "tags": [
+      "noun",
+      "daily-life"
+    ]
+  },
+  {
+    "id": "kr-0013",
+    "korean": "관객",
+    "english": "audience member; audience at a performance",
+    "example_ko": "콘서트에서 관객들이 다 같이 노래를 불렀어요.",
+    "example_en": "The audience sang together at the concert.",
+    "tags": [
+      "noun",
+      "daily-life"
+    ]
+  },
+  {
+    "id": "kr-0014",
+    "korean": "관람객",
+    "english": "spectator; visitor at an event or exhibition",
+    "example_ko": "어제 회식에서는 너무 피곤해서 관람객 모드였어요.",
+    "example_en": "I was so tired at yesterday's team dinner that I was just a spectator.",
+    "tags": [
+      "noun",
+      "daily-life"
+    ]
+  },
+  {
+    "id": "kr-0015",
+    "korean": "쏘다",
+    "english": "to treat someone; pay for others (also: to shoot)",
+    "example_ko": "오늘은 제가 커피 쏠게요.",
+    "example_en": "Coffee's on me today.",
+    "tags": [
+      "verb",
+      "daily-life"
+    ]
+  },
+  {
+    "id": "kr-0016",
+    "korean": "선착순",
+    "english": "first come, first served; order of arrival",
+    "example_ko": "선착순 열 명에게 커피를 무료로 드려요.",
+    "example_en": "Free coffee for the first ten people.",
+    "tags": [
+      "noun",
+      "daily-life"
+    ]
   }
 ]
