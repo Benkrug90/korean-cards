@@ -427,5 +427,16 @@
       "noun",
       "fitness-terms"
     ]
+  },
+  {
+    "id": "kr-0011",
+    "korean": "창립하다",
+    "english": "to found; to establish an organization",
+    "example_ko": "그는 20년 전에 이 회사를 창립했어요.",
+    "example_en": "He founded this company 20 years ago.",
+    "tags": [
+      "verb",
+      "business"
+    ]
   }
 ]
