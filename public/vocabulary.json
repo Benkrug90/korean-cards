@@ -493,5 +493,16 @@
       "noun",
       "daily-life"
     ]
+  },
+  {
+    "id": "kr-0017",
+    "korean": "공유하다",
+    "english": "to share information, files, photos, ideas, or experiences",
+    "example_ko": "회의 자료를 팀원들과 공유했어요.",
+    "example_en": "I shared the meeting materials with my team members.",
+    "tags": [
+      "verb",
+      "daily-life"
+    ]
   }
 ]
