@@ -504,5 +504,16 @@
       "verb",
       "daily-life"
     ]
+  },
+  {
+    "id": "kr-0018",
+    "korean": "두고 가다",
+    "english": "to leave something behind; to leave something somewhere and go",
+    "example_ko": "핸드폰을 집에 두고 왔어요.",
+    "example_en": "I left my phone at home.",
+    "tags": [
+      "verb",
+      "daily-life"
+    ]
   }
 ]
